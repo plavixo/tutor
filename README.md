@@ -8,7 +8,7 @@ Tutor is the working title for a project that intends to change the way we educa
 From the moment you are born, you have a portfolio of what you can do. Initialy that isn't much.
 When you enter schooling age, that portfolio becomes formalised. Competencies are clumped together in tests, and summarised into grades. This continues until you leave education, whether that is primary, secondary, or tertiary.
 
-Every time we learn something, we it to our portfolio.
+Every time we learn something, we add it to our portfolio.
 
 A person _always_ has a portfolio of competencies - that portfolio is just the gigantum list of things they can do. A subset of that portfolio is formalised in formal education, but even when we don't formalise it or acknowledge it, it is still there.
 
@@ -27,8 +27,56 @@ Any competency has dependencies on other competencies. These in turn have depend
 
 We don't often represent these competency networks explicitly. They are implicitly shown in text books and tutorials, where a passage, page, or chapter works towards an outcome to be reached, and guides the consumer through all the prerequities needed. They hide in lists of learning outcomes for classes and courses.
 
-## Bringing the two together - the Portfolio of Competencies
+## Formalising Competency Networks
+Competency networks exist, and we can formalise them.
+We end up with a huge network of competencies.
 
+
+
+Imagine all the compenencies mapped in a single network. What would that look like?
+
+Huge, for a start. Incomprehensably big. We need not try to imagine it all at once, but we can imagine some of the things we'd notice.
+
+### Interrelation
+We'd see that everything is interlinked. Competencies associated with Mathematics would be intertwined with Music. The Natural Sciences would be as intertwined as we know they are. Physics would lead to Electronics which would lead to Computer Science and Computer Programming, from the lowest level chip languages to the abstracted languages running the applications of the world today. Psychciatry, branching from biology, would entwine with Psychology, leading into Social Work fields. Languages would intertwine with Philosophy and Legal Systems. The network of all the competencies intertwined.
+
+### Edges and Levels
+We'd see competencies at the base of the map that reminded us of primary school education: Reading, writing, numeracy at the lowest level of complexity. We'd see the cutting edge of research at the top of the map, the new areas of discovery, and the edge of human understanding being gradually pushed up. We'd see the path from those early competencies to that research, every competency required to support the one at the top edge of the graph.
+We'd also see some competencies lower in the dependency map than we might expect. We may see mathematics normally encountered at university having the same dependencies as competencies normally achieved in primary education. This makes sense. There are many areas of mathematics. Some are not explored until university, not because they are _harder_, but because we deem them as less relevant compared to subject areas, and so they are not taught in primary education. The point to note is that there is no cognative nor academic reason why primary-aged students could not be achieving competence in _some_ "university-level" competencies.
+
+## What would be the point?
+Why would we want to formalise that network? Because of what it gives us.
+
+### Resource Indexing
+With a competency, the unique identifier of a competency can be used to tag a resource as being relevant to that competency.
+
+A resource could be of almost any size - a whole book, to a part of a sentence in a book. A line of dialogue in a video, to a feature length film (There would almost certainly be questions about the efficiency of resource, or the applicability of all the parts!) The point to note is that resources can be widely varied.
+
+Each and every competency could be tagged with many resources. There are so many open resources on the internet alone, let alone those held by companies.
+
+#### Inquisatory Resources
+
+Resources need not just be explanatory, presentation resources - they could be inquisatory (assessment) resources. Some sentences in a book provide information - other sentences, in the form of questions, ask for information to be provided. Computer-aided-assessment question objects can ask a learner a to demonstrate a competency. By the learner succeeding or failing to demonstrate the competency with their answer, that assessment object can show whether they have or have not achieved the competency (see Competencies are Binary).
+
+When an competency is associated with inquisatory resources, learners can access formative and diagnostic assessment.
+
+### Tracking
+With assessment, a learner's portfolio of competencies can be established.
+
+
+
+
+#### Elaborations
+##### Types of Resources
+Written words - phrases, sentences, chapters, volumes in books, webpages, articles, magazines, letters, papers
+Audio - seconds, minutes, hours, of voice, song, sounds, dialogue
+Interactive - sorting or categorising games
+Simulation - simulated worlds, buildings, laboratories
+Images - illustrations, diagrams, photographs
+Moving pictures - with or without sound - videos, animations
+
+## Bringing the two together - the Portfolio of Competencies
+Given that the youngest child has an implicit portfolio of things they can do, and given that we can represent competencies, where does that leave us?
 
 
 ## What would an ideal situation look like?
@@ -79,3 +127,20 @@ could focus on basic literacy and numeracy, and how to access education again
 
 With no structure, kids will do whatever they want
 Adults are not interested in education
+
+
+# To work in
+
+
+
+A competency is something a person can do. In this space, it serves us to restrict the definition: a competency is something we can observe someone doing.
+
+A tool that serves us when talking about observable competencies is Bloom's Taxonomy of Cognitive Outcomes. A revised edition of his work lists six categories of demostration, along with more specific behaviours:
+![alt text](https://s3.amazonaws.com/vuweb-s3-vuwebstaticassets-1i6c9zhn31ti6/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy.jpg "bloom's taxonomy from Vanderbilt University Center for Teaching")
+
+
+Relationship between competency and assessment
+  there can be many assessments for a single competency. Or not
+
+Why is it something we can observe someone doing?
+
