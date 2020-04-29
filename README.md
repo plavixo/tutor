@@ -5,15 +5,15 @@ Tutor is the working title for a project (software and cultural) that intends to
 # The Portfolio Lens
 
 ## The Implicit Portfolio
-From the moment you are born, you have a portfolio of what you can do. Initialy that isn't much.
+From the moment you are born, you have an implict portfolio of what you can do. Initialy that isn't much.
 When you enter schooling age, that portfolio becomes formalised. Competencies are clumped together in tests, and summarised into grades. This continues until you leave education, whether that is primary, secondary, or tertiary.
 
-Every time we learn something, we add it to our portfolio.
+Every time we learn something, we add it to our portfolio of things we can do, whether we acknowledge it or not.
 
 A person _always_ has a portfolio of competencies - that portfolio is just the gigantum list of things they can do. A subset of that portfolio is formalised in formal education, but even when we don't formalise it or acknowledge it, it is still there.
 
 ## The current situation
-Western education looks like a factory production line. We batch children into groups of 30, and we present the same information to them on the same day, at the same pace, in the same way. Nobel efforts are made to differentiate learning as much as possible, but within the structure of mainstream schooling, this can only go so far. The state gets as much education into a person as possible before they turn 18, and then removes the learning support.
+Western education looks like a factory production line. We batch children into groups of 30, and we present the same information to them on the same day, at the same pace, in the same way. Noble efforts are made to differentiate learning as much as possible, but within the structure of mainstream schooling, this can only go so far. The state gets as much education into a person as possible before they turn 18, and then removes the learning support.
 
 Some people continue foramal education in the workplace. Some people follow hobbies or passions. Some people get stuck in a rut.
 
@@ -29,9 +29,6 @@ We don't often represent these competency networks explicitly. They are implicit
 
 ## Formalising Competency Networks
 Competency networks exist, and we can formalise them.
-We end up with a huge network of competencies.
-
-
 
 Imagine all the compenencies mapped in a single network. What would that look like?
 
@@ -42,6 +39,7 @@ We'd see that everything is interlinked. Competencies associated with Mathematic
 
 ### Edges and Levels
 We'd see competencies at the base of the map that reminded us of primary school education: Reading, writing, numeracy at the lowest level of complexity. We'd see the cutting edge of research at the top of the map, the new areas of discovery, and the edge of human understanding being gradually pushed up. We'd see the path from those early competencies to that research, every competency required to support the one at the top edge of the graph.
+
 We'd also see some competencies lower in the dependency map than we might expect. We may see mathematics normally encountered at university having the same dependencies as competencies normally achieved in primary education. This makes sense. There are many areas of mathematics. Some are not explored until university, not because they are _harder_, but because we deem them as less relevant compared to subject areas, and so they are not taught in primary education. The point to note is that there is no cognitive nor academic reason why primary-aged students could not be achieving competence in _some_ "university-level" competencies.
 
 ## What would be the point?
@@ -53,8 +51,6 @@ With a competency, the unique identifier of a competency can be used to tag a re
 A resource could be of almost any size - a whole book, to a part of a sentence in a book. A line of dialogue in a video, to a feature length film (There would almost certainly be questions about the efficiency of resource, or the applicability of all the parts!) The point to note is that resources can be widely varied.
 
 Each and every competency could be tagged with many resources. There are so many open resources on the internet alone, let alone those held by companies.
-
-#### What does it buy us
 
 #### Inquisatory Resources
 
@@ -68,7 +64,7 @@ With assessment of binary competencies, a learner's portfolio of competencies ca
 ### Routing
 Given a network of competencies, if a learner is working towards achieving a competency, and that they have not yet achieved the competencies upon which it depends, then that learner knows the next small step that they need to take on the path to their target competency.
 
->This is transformative. When self-directed learners have to stumble along to work out what they need to know in order to reach their objective; that's research. Research is great, but it isn't an effective way of getting from A to B. In a network, the learner knows what the next competency is, and the next one, and the next one, all the way to their target.
+>This is transformative. When self-directed learners have to stumble along to work out what they need to know in order to reach their objective; that's research. Research is great, but it isn't an effective way of getting from A to B. In a network, the learner knows what the next competency is, and the next one, and the next one, all the way to their target. This is putting control in the hands of the learner. They are empowered to be independent.
 
 (See: [Routing](#routing))
 
@@ -136,34 +132,47 @@ There are certain cognitive competencies that we, as a society, have decided peo
 
 The ability to track students' specific competencies individually is a tool teacher can leverage to quickly spot when students are falling behind where they might reasonably be expected to be. With this safety net, teachers can afford students more freedom, to pursue an area of passion intensively for a while, leaving other areas to fall behind, so long as they don't fall _too_ far behind.
 
-
-
-### Peer and group learning
-
-### Putting control back in the hands of the learner
-
-
-
 ## What would this look like (in an idealised world)?
 
-People are empowered to learn what they want, when they want
-Joined up
-Education is available to more people
-Education becomes personalised
-Could reach those unreached by mainstream education
-  those that don't get on with school
-    behaviour
-    anxiety
-   aged out
-could let people go and learn the real world and come back when they are ready
-could focus on basic literacy and numeracy, and how to access education again
+People are empowered to learn what they want, when they want. It is a joined up in the back end, though may be presented and experienced in myriad ways by the person thoughout their lifetime.
+Education becomes personalised, accessible to everybody. It could better reach those people not presently well served by mainstream eduation, those that those that have issues with attending school for behavioural or mental health issues, or simply the people that have reached the age of 18 or have finished university.
+Thinking outside of our own county, a competency system that empowers self-directed learners could extend the reach of high quality education around the world. Many cognitive outcomes ar universal - the fundametals of matematics in the UK is the same as in the poorest parts of Africa, chemical reactions in the USA are the same as those in economically deprived areas of Asia. Compared to creating a stable and mature education infrastructure, flying in a reasonable technology infrastructure is fast and easy. With technology, people in poor circumstances could access at least cognitive competency education, increasing their skills.
 
-## Consider the impacts this could have on:
-
-### Behaviour Management
-### Passions
+Over time, we could see a shift in culture. If education is made accessible to all people at all stages of their lives, the need to achieve certain competencies by a certain age seems less valid.
+We could let people go and learn the real world and come back to education when they are ready. Go work in a mechanics garage for a few months, get relevance of numeracy when measuring anc calculating oil volumes and parts sizes, or taking money from customers.
+Learning Hubs may emerge, with or without school involvement, with tax-payer funded teachers there to support all learners. We could see elective classes attended by a 35 year old sitting alongside a teenager alongside a 10 year old.
+Compulsory schooling could focus on basic literacy and numeracy, and how to access further education again. Education becomes on demand, because you need it for your workplace, or for passion.
+Schools become specialised Learning Hubs with additional remits, serving the needs of their students, with less of the burdan associated with responsbility for the students' cognitive competence outcomes.
+Classes would still exist for those that wanted them.
+More facilitiators
+Behaviour Management wouldn't be a thing, at least not in the "disrupting the classroom way it is now"
+People could more easily follow their passions, and perhaps turn them into careers.
 
 
+## Address
+With no structure, kids will do whatever they want
+  This isn't true for all children. 
+  For those that struggle to focus or find their passion, differentited learning could look like them attending something that looks a lot like a mainstream school. Or they may be better suited to starting a part-time workplace apprenticeship very early, to contextualise their learning, allowing them to return to more full-time education path with a renewed sense of motivation in the future.
+Adults are not interested in education
+  This is not true for all adults, and not true for all stages of life. One of the affordances of the persistant portfolio model is that people can start, stop, slow down, speed up their learning at any point. They may learn things in the real world, away from any tracking system, and choose to add those skils to their materialised portfolio later.
+Learning should be hard. People should have to earn it.
+  Differentiated Learning means that people can quickly achieve competencies that they have a natural disposition for, and more quickly meet the competencies on the edge of the capabilites. With a competency based system, learners can spend more time in healthy struggle that stretches their capabilities.
+Pressure to keep learning more and more, earlier and earlier
+  This is a concern, but because there is quite explicitly no upper limit to the competency network, there is only so far this can be taken. "Finishing" is not humanly feasible.
+Not everyone will agree on a single competency map
+  No. Lets talk about folksonomy and composing maps later
+Psychomotor and Affective domains
+  Are not covered by this work. They are presently addressed by other education interventions.
+Retaining competencies, periodic reassessment
+  We forget things that we have not revisited - the forgetting curve. A competency based system as described is well places to periodically assess competencies that have been achieved. This revision can keep more competencies at the ready, though if you have forgotten them, then you are likely not using them in your life, there is a question of why. Learning a langage is a great example of something you'd want to keep fresh.
+They who control the learning network can "brainwash" the citizenry
+  The government controls the education system anyway. This kind of system could expose people to more diversity of viewpoint. 
+  It gets very shaky when value judgements are mascaraded as cognitive outcomes:
+  "By the end of the intervention, the student will be able to categorise Trump as a good president".
+  Are value-judgements a cognitive competency? Yes, but they are very contextualised. All cognitive outcomes are, though most of the time we overlook the context:
+  "By the end of the intervention, the studeent will be able calculate 1+1"
+  This the answer to the question "What is 1+1?" would be 2 in the context of our day to day, base10 (decimal) number system, but would be "10" in a base2 (binary) number system.
+Data privacy issues
 
 #### Elaborations
 ##### Types of Resources
@@ -174,26 +183,21 @@ Simulation - simulated worlds, buildings, laboratories
 Images - illustrations, diagrams, photographs
 Moving pictures - with or without sound - videos, animations
 
+##### Types of Routing
+
+* Teacher-Set
+ * An authority suggests an optimal route through a subnetwork.
+* Normative Fail-Safe
+ * A route is adapted with respect to the performance of the students using it. If more students are successful with a particular route, then this route could be promoted. Similarly, if many students struggle on a particular route, then this should be an indication that the route and the relevant part of the network should be inspected for faults.
+* *Student-Chosen
+ * Students choose the next competency they want to achieve.
+* Patterned
+ * It is possible that further development will reveal certain patterns within the network; topographical patterns of capability, subject matter, or both. This is similar to the intermediate representation tiling concept in compiler engineering. There may be optimal ways of routing through such repeating patterns.
+* Subject Matter or Behaviour Type
+ * Certain subject matter topics or items may be “easier”, or more efficacious for certain students, particularly when considering student background and prior experience. Strategic routing to those ILOs may be employed to optimise student engagement
 
 
-##Address
-With no structure, kids will do whatever they want
-  You have to get over the idea of kids have to be made to learn
-Adults are not interested in education
-Learning should be hard. People should have to earn it.
-Pressure to keep learning more and more, earlier and earlier
-Not everyone will agree on a single competency map
-Psychomotor and Affective
-Retaining competencies, periodic reassessment
-Government brainwashing
-  they control the education system anyway. This could expose people to more diversity of view. Is politics a cognitive competency? Kinda, yes, but very contextualised
-Competency of judgement - what is a "good" person etc
-Personal responsibility
-  What if they don't have it?
-    We work out what would work for them. Or we mainstream them. That's what differentated presetnation means.
-
-
-## Routing
+##### What is in a competency
 
 A competency is something a person can do. In this space, it serves us to restrict the definition: a competency is something we can observe someone doing.
 
@@ -201,8 +205,7 @@ A tool that serves us when talking about observable competencies is Bloom's Taxo
 ![alt text](https://s3.amazonaws.com/vuweb-s3-vuwebstaticassets-1i6c9zhn31ti6/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy.jpg "bloom's taxonomy from Vanderbilt University Center for Teaching")
 
 
-Relationship between competency and assessment
-  there can be many assessments for a single competency. Or not
+There is a strong relationship between competency and assessment - they are in some ways interchangable. Look up "Knowledge Space Theory". There can be many assessments for a single competency. Or not.
 
 Why is it something we can observe someone doing?
 
