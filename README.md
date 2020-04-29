@@ -73,7 +73,7 @@ Given a network of competencies, if a learner is working towards achieving a com
 (See: [Routing](#routing))
 
 ### Other Uses
-* Network Comparison for profile matching to 
+* Network Comparison for profile matching for 
  * job roles, academic entrance requirements etc
  * accreditation
 * Composing networks
@@ -85,7 +85,45 @@ Given a network of competencies, if a learner is working towards achieving a com
 
 In a world where competency maps exist and have explanatory and inquistatory resources attached, there are opportunities.
 
-The portfolio never stops
+### The portfolio never stops. The learning never stops
+Whether you are three or 93, you can track the competencies you have achieved. People learn, and achieve competencies, through school years, after school years, their whole lives long.
+
+### Differentiated learning 
+
+#### Resource type
+With a world of resources to choose from, learners can select the resource that best suit the way they like to learn. Recommender algorithms could promote learning resources that "learners similar to you" found most effective.
+
+#### Pace
+Learners can progress at a pace that suits them for whatever competencies they are pursuing. The child who has a predisposition for English can achieve competencies quickly. That same child, who has less capability in mathematical thinking, can progress in those competencies at a slower pace, fully achieving each before moving on. As they mature, they may discover an area of particuar interest in maths, and steak off through those competencies.
+
+#### Interaction type
+Differentiated learning is not available to only those who study in isolation. A valid "Differentiated Learning Interaction" can be a classroom session, or an in-person course etc. It can be students forming a cohort to learn together with an instructor. 
+
+Differentiated learning means that everyone's paths can look different. Some learn best alone, some in a group, some with a book, some with a video. These learning preferences can change with topic, with age, with life-circumstance - a single person may choose to be in a classroom to tackle competencies in English, prefer a book for maths, log into a virutal world to learn about geograph, listen to an audio book about history, meet with a study group in a lab for electronics, and have a partner with whom to study science.
+
+
+
+#### Duty of care of under 18s
+Schools are not just education shops. The outcomes of a good eduction are not measurable in merely cognitive competencies achieved.
+
+
+### for learning
+
+
+### for learners 
+
+
+What does this mean for (mainstream) schooling?
+
+
+
+### Peer and group learning
+
+### Putting control back in the hands of the learner
+
+
+
+In a perfect world where everyone could slip into
 
 
 
@@ -114,20 +152,7 @@ Education becomes personalised
 
 
 
-You have to get over the idea of kids have to be made to learn
 
-Personalised
-topics
-sequence
-presentation
-  audio
-  video
-  tutorial
-  gamified or point and click
-
-
-Could still have classroom groups
-Could still have collaborative projects to learn soft skills
 
 Personal responsibility
   What if they don't have it?
@@ -149,10 +174,19 @@ could focus on basic literacy and numeracy, and how to access education again
 
 ##Address
 With no structure, kids will do whatever they want
+  You have to get over the idea of kids have to be made to learn
 Adults are not interested in education
 Learning should be hard. People should have to earn it.
 Pressure to keep learning more and more, earlier and earlier
 Not everyone will agree on a single competency map
+Psychomotor and Affective
+Retaining competencies, periodic reassessment
+Government brainwashing
+  they control the education system anyway. This could expose people to more diversity of view. Is politics a cognitive competency? Kinda, yes, but very contextualised
+Competency of judgement - what is a "good" person etc
+Cognitive competencies are not everything. Schools do far more than teach cognitive competencies
+  Absolutely. There is so much more to school, and life, than being able to demostrate cognitive competencies. This project is not antagonistic to that - quite the opposite! Cognitive competencies are an important part of school. By assisting with the aquisition of  cognitive competencies, this work could make more space in the school time table for all the things that _can't_ be taught away from school. Collaborative projects, team building, physical education, moral and pastoral education.
+  Differentiated Learning means that there can be collaborative projects to learn soft skills. Qualifications could morph to be defined by the cognitive competencies a candidate must have, as well as a portfolio of _experiences_.
 
 
 # To work in
