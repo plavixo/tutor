@@ -102,18 +102,39 @@ Differentiated learning is not available to only those who study in isolation. A
 Differentiated learning means that everyone's paths can look different. Some learn best alone, some in a group, some with a book, some with a video. These learning preferences can change with topic, with age, with life-circumstance - a single person may choose to be in a classroom to tackle competencies in English, prefer a book for maths, log into a virutal world to learn about geograph, listen to an audio book about history, meet with a study group in a lab for electronics, and have a partner with whom to study science.
 
 
+### What does this mean for (mainstream) schooling?
+When considering education, particuarly when those considerations include the education of children, there is a persumption that I am taking a shot at schools. I am not.
+There is so much more to school, and life, than being able to demostrate cognitive competencies. This project is not antagonistic to the role of schools - quite the opposite!
+Schools are not just cognitive competencies shops. The outcomes of a good eduction are not measurable merely in cognitive outcomes achieved.
 
-#### Duty of care of under 18s
-Schools are not just education shops. The outcomes of a good eduction are not measurable in merely cognitive competencies achieved.
+However, cognitive competencies _are_ undeniably an important part of education, and schools have responsiblities for the cognitive education of their students. By assisting with the aquisition of  cognitive competencies, this work could make more space in the school time table for all the things that _can't_ be taught away from school: collaborative projects, team building, physical education, moral and pastoral education, etc.
+
+Consider some of the roles, other than the teaching of cognitive competencies, that schools play
+
+
+### Social, affective, psychomotor, and other non-cognitive competencies
+Schools educate in so many ways. They teach valuable social skills, and expose their students to new experiences. They teach resiliance, empathy, grit, determination, politics, and many other skills. These skills are not addressed by this work; these essential skills must still be taught.  
+Practical skills in Art, Music, Domestic Science, Design and Technology, Practical Electronics need skilled teachers and equipped spaces to be taught effectively.
+Differentiated Learning means that there collaborative projects are a valid approach to learning, with the benefit of simultaneously exposing students to the opportunity to learn soft skills. 
+Qualifications could morph to be defined by the cognitive competencies a candidate must have, as well as a portfolio of _experiences_ they must have undertaken.
+
+### Pastoral
+Schools provide vital services for children. Pastoral care is a huge remit of schools. Teaching about psychologial, emotional, and sexual health is vital. Teachers, developing close working relationships with students notice changes, from sadness and health concerns, through to depression, neglect, extremism etc
+
+### Childcare
+A function of schools is to provide childcare. This enables their parents to work.
+Whatever shape this project takes in supporting one of the many aspects of schooling, there will need to be some form of childcare for working parents.
+
+### Teaching cognitive competencies
+Schools and teachers teach cognitive competencies. This project does not seek to remove that privallage, but instead to lighten the burdan. There are some things that remain most effective with the human touch.
+Consider diagnostic assessment - working out _why_ a learner is stuck on something. A learner may be struggling with a misconception, with confusion over langage, or having not fully grasped a prerequisite. It is like that a teacher will be far better placeed to track those isssues down and rectify them.  
+Teachers can play a overwhelmingly significant role in motivating students, building confidence, and inspiring courage.
 
 
 ### for learning
+There are certain cognitive competencies that we, as a society, have decided people should have before they leave formal education. Key skills in reading, writing, numeracy are considered essential, and we compel people to pursue these competencies until they attain them, or become old enough that we can no longer legally compel them. Schools are responsible for ensuring people achieve those competencies before they age out of the school system.
 
-
-### for learners 
-
-
-What does this mean for (mainstream) schooling?
+The ability to track students' specific competencies individually is a tool teacher can leverage to quickly spot when students are falling behind where they might reasonably be expected to be. With this safety net, teachers can afford students more freedom, to pursue an area of passion intensively for a while, leaving other areas to fall behind, so long as they don't fall _too_ far behind.
 
 
 
@@ -123,7 +144,24 @@ What does this mean for (mainstream) schooling?
 
 
 
-In a perfect world where everyone could slip into
+## What would this look like (in an idealised world)?
+
+People are empowered to learn what they want, when they want
+Joined up
+Education is available to more people
+Education becomes personalised
+Could reach those unreached by mainstream education
+  those that don't get on with school
+    behaviour
+    anxiety
+   aged out
+could let people go and learn the real world and come back when they are ready
+could focus on basic literacy and numeracy, and how to access education again
+
+## Consider the impacts this could have on:
+
+### Behaviour Management
+### Passions
 
 
 
@@ -136,41 +174,7 @@ Simulation - simulated worlds, buildings, laboratories
 Images - illustrations, diagrams, photographs
 Moving pictures - with or without sound - videos, animations
 
-## Bringing the two together - the Portfolio of Competencies
-Given that the youngest child has an implicit portfolio of things they can do, and given that we can represent competencies, where does that leave us?
 
-
-## What would an ideal situation look like?
-
-Imagine an education system in which learning doesn't stop - you don't stop being a student. From the moment you start learning to do acadmic things, your portfolio recognises those competencies.
-
-
-People are empowered to learn what they want, when they want
-Joined up
-Education is available to more people
-Education becomes personalised
-
-
-
-
-
-Personal responsibility
-  What if they don't have it?
-    We work out what would work for them. Or we mainstream them. That's what differentated presetnation means.
-
-Could reach those unreached by mainstream education
-  those that don't get on with school
-    behaviour
-    anxiety
-   aged out
-   
-could let people go and learn the real world and come back when they are ready
-could focus on basic literacy and numeracy, and how to access education again
-
-## Consider the impacts this could have on:
-
-### Behaviour Management
-### Passions
 
 ##Address
 With no structure, kids will do whatever they want
@@ -184,12 +188,10 @@ Retaining competencies, periodic reassessment
 Government brainwashing
   they control the education system anyway. This could expose people to more diversity of view. Is politics a cognitive competency? Kinda, yes, but very contextualised
 Competency of judgement - what is a "good" person etc
-Cognitive competencies are not everything. Schools do far more than teach cognitive competencies
-  Absolutely. There is so much more to school, and life, than being able to demostrate cognitive competencies. This project is not antagonistic to that - quite the opposite! Cognitive competencies are an important part of school. By assisting with the aquisition of  cognitive competencies, this work could make more space in the school time table for all the things that _can't_ be taught away from school. Collaborative projects, team building, physical education, moral and pastoral education.
-  Differentiated Learning means that there can be collaborative projects to learn soft skills. Qualifications could morph to be defined by the cognitive competencies a candidate must have, as well as a portfolio of _experiences_.
+Personal responsibility
+  What if they don't have it?
+    We work out what would work for them. Or we mainstream them. That's what differentated presetnation means.
 
-
-# To work in
 
 ## Routing
 
