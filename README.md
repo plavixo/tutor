@@ -1,6 +1,6 @@
 # Tutor
 
-Tutor is the working title for a project that intends to change the way we educate ourselves and others.
+Tutor is the working title for a project (software and cultural) that intends to change the way we educate ourselves and others.
 
 # The Portfolio Lens
 
@@ -42,7 +42,7 @@ We'd see that everything is interlinked. Competencies associated with Mathematic
 
 ### Edges and Levels
 We'd see competencies at the base of the map that reminded us of primary school education: Reading, writing, numeracy at the lowest level of complexity. We'd see the cutting edge of research at the top of the map, the new areas of discovery, and the edge of human understanding being gradually pushed up. We'd see the path from those early competencies to that research, every competency required to support the one at the top edge of the graph.
-We'd also see some competencies lower in the dependency map than we might expect. We may see mathematics normally encountered at university having the same dependencies as competencies normally achieved in primary education. This makes sense. There are many areas of mathematics. Some are not explored until university, not because they are _harder_, but because we deem them as less relevant compared to subject areas, and so they are not taught in primary education. The point to note is that there is no cognative nor academic reason why primary-aged students could not be achieving competence in _some_ "university-level" competencies.
+We'd also see some competencies lower in the dependency map than we might expect. We may see mathematics normally encountered at university having the same dependencies as competencies normally achieved in primary education. This makes sense. There are many areas of mathematics. Some are not explored until university, not because they are _harder_, but because we deem them as less relevant compared to subject areas, and so they are not taught in primary education. The point to note is that there is no cognitive nor academic reason why primary-aged students could not be achieving competence in _some_ "university-level" competencies.
 
 ## What would be the point?
 Why would we want to formalise that network? Because of what it gives us.
@@ -54,6 +54,8 @@ A resource could be of almost any size - a whole book, to a part of a sentence i
 
 Each and every competency could be tagged with many resources. There are so many open resources on the internet alone, let alone those held by companies.
 
+#### What does it buy us
+
 #### Inquisatory Resources
 
 Resources need not just be explanatory, presentation resources - they could be inquisatory (assessment) resources. Some sentences in a book provide information - other sentences, in the form of questions, ask for information to be provided. Computer-aided-assessment question objects can ask a learner a to demonstrate a competency. By the learner succeeding or failing to demonstrate the competency with their answer, that assessment object can show whether they have or have not achieved the competency (see Competencies are Binary).
@@ -61,8 +63,29 @@ Resources need not just be explanatory, presentation resources - they could be i
 When an competency is associated with inquisatory resources, learners can access formative and diagnostic assessment.
 
 ### Tracking
-With assessment, a learner's portfolio of competencies can be established.
+With assessment of binary competencies, a learner's portfolio of competencies can be established specifically, with a high resolution.
 
+### Routing
+Given a network of competencies, if a learner is working towards achieving a competency, and that they have not yet achieved the competencies upon which it depends, then that learner knows the next small step that they need to take on the path to their target competency.
+
+>This is transformative. When self-directed learners have to stumble along to work out what they need to know in order to reach their objective; that's research. Research is great, but it isn't an effective way of getting from A to B. In a network, the learner knows what the next competency is, and the next one, and the next one, all the way to their target.
+
+(See: [Routing](#routing))
+
+### Other Uses
+* Network Comparison for profile matching to 
+ * job roles, academic entrance requirements etc
+ * accreditation
+* Composing networks
+ * Extending networks
+ * Finding consensus and difference
+ * Resource sharing
+
+## So what?
+
+In a world where competency maps exist and have explanatory and inquistatory resources attached, there are opportunities.
+
+The portfolio never stops
 
 
 
@@ -124,14 +147,17 @@ could focus on basic literacy and numeracy, and how to access education again
 ### Behaviour Management
 ### Passions
 
-
+##Address
 With no structure, kids will do whatever they want
 Adults are not interested in education
+Learning should be hard. People should have to earn it.
+Pressure to keep learning more and more, earlier and earlier
+Not everyone will agree on a single competency map
 
 
 # To work in
 
-
+## Routing
 
 A competency is something a person can do. In this space, it serves us to restrict the definition: a competency is something we can observe someone doing.
 
