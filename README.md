@@ -19,7 +19,16 @@ Some people continue foramal education in the workplace. Some people follow hobb
 
 # The Competency Network Lens
 
-Every cognitive competency has dependencies - things you have to be able to do, in order to be able to do the thing you want to do. 
+Every cognitive competency has dependencies, otherwise known as prerequisites. These are things you have to be able to do, in order to be able to do the thing you want to do. We have an implict understanding of this - in order to be able to multiply, you have to be able to add. In order to be able to add, you have to be able to count.
+
+We build competencies on competencies. A mathematics PhD student will be building on the mathematics they learned in their undergraduate degree, which built upon the maths they learned at high school, which built upon the maths the learned in primary school, which built upon their successes of counting in nursery school.
+
+Any competency has dependencies on other competencies. These in turn have dependencies on other competencies. This relationship forms a competency network
+
+We don't often represent these competency networks explicitly. They are implicitly shown in text books and tutorials, where a passage, page, or chapter works towards an outcome to be reached, and guides the consumer through all the prerequities needed. They hide in lists of learning outcomes for classes and courses.
+
+## Bringing the two together - the Portfolio of Competencies
+
 
 
 ## What would an ideal situation look like?
